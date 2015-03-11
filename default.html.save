@@ -1,0 +1,20 @@
+<html>
+
+<body>
+	<p id="demo">Change this text brah</p>
+
+	<script>
+		function myFunction() {
+			var x = document.getElementById("demo");
+			x.style.fontsize="25px";
+x.style.color="red";
+		}
+	</script>
+
+	<button type="button"onclick="document.getElementById('demo').innerHTML = 'Hello Javascript' ">
+	Click Me!
+	</button>
+
+</body>
+
+</html>
