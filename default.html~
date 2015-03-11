@@ -1,0 +1,11 @@
+<html>
+
+<body>
+
+	<script>
+		document.getElementById("demo").innerHTML = "Some Javascript";
+	</script>
+
+</body>
+
+</html>
